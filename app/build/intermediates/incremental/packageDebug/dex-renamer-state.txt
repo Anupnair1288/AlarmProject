@@ -1,0 +1,7 @@
+#Fri Jan 27 03:33:22 IST 2017
+base.0=C\:\\Users\\Anup\\Downloads\\AlarmProject\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ec1e1b8aec0bc3cdee2657f1fc16fa9d4173891b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Anup\\Downloads\\AlarmProject\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a68d7f6e82e6e00946489c535d16678e07f2d073\\classes.dex
+base.1=C\:\\Users\\Anup\\Downloads\\AlarmProject\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a68d7f6e82e6e00946489c535d16678e07f2d073
+file.0=C\:\\Users\\Anup\\Downloads\\AlarmProject\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ec1e1b8aec0bc3cdee2657f1fc16fa9d4173891b\\classes.dex

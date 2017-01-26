@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Anup\\Downloads\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_alarm.xml",
+        "source": "C:\\Users\\Anup\\Downloads\\AlarmProject\\app\\src\\main\\res\\xml\\pref_alarm.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anup\\Downloads\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_mimics.xml",
+        "source": "C:\\Users\\Anup\\Downloads\\AlarmProject\\app\\src\\main\\res\\xml\\pref_mimics.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anup\\Downloads\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_global.xml",
+        "source": "C:\\Users\\Anup\\Downloads\\AlarmProject\\app\\src\\main\\res\\xml\\pref_global.xml"
+    }
+]
